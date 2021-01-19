@@ -1,0 +1,9 @@
+Name of Quantlet: VISAplot
+
+Published in: Quantlet
+
+Description: ‘Quant analysis of financial time series´
+
+Keywords: VISA, financial time series, moving average 
+
+Author: Maria Culjak 
