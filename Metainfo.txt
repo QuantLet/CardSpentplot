@@ -1,4 +1,4 @@
-Name of Quantlet: VISAplot
+Name of Quantlet: Cardspentplot
 
 Published in: Quantlet
 
