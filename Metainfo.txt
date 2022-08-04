@@ -6,4 +6,4 @@ Description: ‘Quant analysis of financial time series´
 
 Keywords: CardSpent, financial time series, moving average 
 
-Author: Maria Culjak 
+Author: Maria Culjak, 20220804 WKH changed name
